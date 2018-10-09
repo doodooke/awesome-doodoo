@@ -1,5 +1,5 @@
 # awesome-doodoo
-### 教程
+### 实战教程
 
 [1.快速入门](https://github.com/doodooke/awesome-doodoo/blob/master/docs/1-%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8.md)
 
