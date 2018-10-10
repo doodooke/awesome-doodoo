@@ -11,6 +11,9 @@
 
 [多多客小程序](https://www.doodooke.com)
 
+- [准备工作](https://github.com/doodooke/awesome-doodoo/blob/master/cases/doodooke/%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C.md)
+- [安装说明](https://github.com/doodooke/awesome-doodoo/blob/master/cases/doodooke/%E5%AE%89%E8%A3%85%E8%AF%B4%E6%98%8E.md)
+
 
 
 ##### 问题反馈
